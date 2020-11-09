@@ -29,7 +29,7 @@
       "build/**/*",
       "node_modules/**/*"
     ],
-    "directories":{
+    "directories": {
       "buildResources": "assets"
     }
   },
@@ -55,6 +55,7 @@
     "concurrently": "^5.3.0",
     "electron": "^10.1.5",
     "electron-builder": "^22.9.1",
+    "react-test-renderer": "^17.0.1",
     "wait-on": "^5.2.0"
   }
 }
